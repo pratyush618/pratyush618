@@ -1,6 +1,6 @@
 ### Hi there 👋
-# 💫 About Me:
-🌱 I’m currently learning SpringBoot and Hibernate
+ 💫 About Me: \
+🌱 Currently occupied with Spring Boot and Hibernate 😁
 
 
 ## 🌐 Socials:
