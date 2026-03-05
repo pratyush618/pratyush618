@@ -67,7 +67,7 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=pratyush618&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=pratyush618&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
       </td>
       <td>
         <img src="https://nirzak-streak-stats.vercel.app/?user=pratyush618&theme=tokyonight&hide_border=true" alt="Streak Stats" />
@@ -77,7 +77,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratyush618&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="Top Languages" width="450"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pratyush618&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="Top Languages" width="450"/>
 </div>
 
 ## 📈 Contribution Graph
@@ -95,7 +95,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pratyush618&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" alt="Trophies" />
+  <img src="https://github-profile-trophy-winning.vercel.app/?username=pratyush618&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" alt="Trophies" />
 </div>
 
 ## 💭 Dev Quote
