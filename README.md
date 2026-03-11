@@ -10,18 +10,18 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🧑‍💻 About Me
+## About Me
 
-- 🔧 Backend developer who loves building fast, reliable systems
-- 🦀 Systems programming enthusiast — writing real tools in **Rust** and **C**
-- 🧠 Exploring ML/DL — built a brain tumor classifier with CNN-SVM
-- 🌍 Based in **Uttar Pradesh, India**
-- 🌐 Check out my work at [pratyush.space](https://pratyush.space)
-- 💬 Ask me about **Python, Rust, FastAPI, or system design**
+- Backend developer who loves building fast, reliable systems
+- Systems programming enthusiast — writing real tools in **Rust** and **C**
+- Exploring ML/DL — built a brain tumor classifier with CNN-SVM
+- Based in **Uttar Pradesh, India**
+- Check out my work at [pratyush.space](https://pratyush.space)
+- Ask me about **Python, Rust, FastAPI, or system design**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -61,7 +61,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <table>
@@ -80,25 +80,25 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pratyush618&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="Top Languages" width="450"/>
 </div>
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pratyush618&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%"/>
 </div>
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/pratyush618/pratyush618/output/github-snake-dark.svg" alt="Snake animation" />
 </div>
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
   <img src="https://github-trophies.vercel.app/?username=pratyush618&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" alt="Trophies" />
 </div>
 
-## 💭 Dev Quote
+## Dev Quote
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
