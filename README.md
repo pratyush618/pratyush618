@@ -13,11 +13,9 @@
 ## About Me
 
 - Backend developer who loves building fast, reliable systems
-- Systems programming enthusiast — writing real tools in **Rust** and **C**
-- Exploring ML/DL — built a brain tumor classifier with CNN-SVM
 - Based in **Uttar Pradesh, India**
 - Check out my work at [pratyush.space](https://pratyush.space)
-- Ask me about **Python, Rust, FastAPI, or system design**
+- Ask me about **Python, FastAPI, or system design**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
