@@ -93,7 +93,7 @@
 ## GitHub Trophies
 
 <div align="center">
-  <img src="https://github-trophies.vercel.app/?username=pratyush618&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" alt="Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=pratyush618&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7&hide=Stars,AncientUser,NewUser,Organizations" alt="Trophies" />
 </div>
 
 ## Dev Quote
