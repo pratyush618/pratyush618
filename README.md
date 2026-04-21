@@ -68,7 +68,7 @@
         <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=pratyush618&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
       </td>
       <td>
-        <img src="https://nirzak-streak-stats.vercel.app/?user=pratyush618&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+        <img src="https://streak-stats.demolab.com/?user=pratyush618&theme=tokyonight&hide_border=true" alt="Streak Stats" />
       </td>
     </tr>
   </table>
