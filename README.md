@@ -93,7 +93,7 @@
 ## GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy-tawny.vercel.app/?username=pratyush618&theme=gruvbox&no-frame=true&no-bg=true&margin-w=10&column=7&title=-Stars,-AncientUser,-NewUser,-Organizations,-Followers" alt="Trophies" />
+  <img src="https://github-profile-trophy-tawny.vercel.app/?username=pratyush618&theme=oldie&no-frame=true&no-bg=true&margin-w=10&column=7&title=-Stars,-AncientUser,-NewUser,-Organizations,-Followers" alt="Trophies" />
 </div>
 
 ## Dev Quote
