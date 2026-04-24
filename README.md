@@ -65,23 +65,23 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=pratyush618&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=pratyush618&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
       </td>
       <td>
-        <img src="https://streak-stats.demolab.com/?user=pratyush618&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+        <img src="https://streak-stats.demolab.com/?user=pratyush618&theme=radical&hide_border=true" alt="Streak Stats" />
       </td>
     </tr>
   </table>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pratyush618&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="Top Languages" width="450"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pratyush618&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="Top Languages" width="450"/>
 </div>
 
 ## Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pratyush618&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pratyush618&theme=radical&hide_border=true&area=true" alt="Activity Graph" width="100%"/>
 </div>
 
 ## Contribution Snake
@@ -93,13 +93,13 @@
 ## GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy-tawny.vercel.app/?username=pratyush618&theme=oldie&no-frame=true&no-bg=true&margin-w=10&column=7&title=-Stars,-AncientUser,-NewUser,-Organizations,-Followers" alt="Trophies" />
+  <img src="https://github-profile-trophy-tawny.vercel.app/?username=pratyush618&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=7&title=-Stars,-AncientUser,-NewUser,-Organizations,-Followers" alt="Trophies" />
 </div>
 
 ## Dev Quote
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
