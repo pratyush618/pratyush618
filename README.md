@@ -5,7 +5,7 @@
 <div align="center">
   <a href="https://linkedin.com/in/pratyush1909"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://pratyush.space"><img src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=pratyush618&style=for-the-badge&color=a9fef7&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=pratyush618&style=for-the-badge&color=5bcdec&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -81,7 +81,7 @@
 ## Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pratyush618&theme=radical&hide_border=true&area=true" alt="Activity Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pratyush618&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" width="100%"/>
 </div>
 
 ## Contribution Snake
