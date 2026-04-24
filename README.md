@@ -5,7 +5,7 @@
 <div align="center">
   <a href="https://linkedin.com/in/pratyush1909"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://pratyush.space"><img src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=pratyush618&style=for-the-badge&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=pratyush618&style=for-the-badge&color=fe428e&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
