@@ -84,11 +84,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pratyush618&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" width="100%"/>
 </div>
 
-## Contribution Snake
-
-<div align="center">
+<!-- <div align="center">
   <img src="https://raw.githubusercontent.com/pratyush618/pratyush618/output/github-snake-dark.svg" alt="Snake animation" />
-</div>
+</div> -->
 
 ## GitHub Trophies
 
