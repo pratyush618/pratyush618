@@ -94,10 +94,9 @@
   <img src="https://github-profile-trophy-tawny.vercel.app/?username=pratyush618&theme=matrix&no-frame=true&no-bg=true&margin-w=10&column=7&title=-Stars,-AncientUser,-NewUser,-Organizations,-Followers" alt="Trophies" />
 </div>
 
-## Dev Quote
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
-</div>
+</div> -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
